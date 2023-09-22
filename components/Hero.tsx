@@ -135,9 +135,10 @@ const Hero = () => {
             <div className="px-20 py-20">
               <Image
                 src="/assets/business-people-office.png"
-                width="408px"
-                height="580px"
+                width="408"
+                height="580"
                 className="relative z-20"
+                alt="0ffice"
               />
               <div className="w-[408px] h-[580px] border-[5px] border-[#f5f6fc] rounded-tl-[100px] rounded-tr-2xl rounded-br-2xl rounded-bl-2xl z-10 absolute top-[160px] right-[380px]"></div>
               <div className="w-[308px] h-[480px] border-[5px] border-[#f5f6fc] rounded-tl-[100px] rounded-tr-2xl rounded-br-2xl rounded-bl-2xl z-10 absolute top-[300px] right-[330px]"></div>
